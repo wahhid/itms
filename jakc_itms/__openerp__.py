@@ -1,9 +1,9 @@
 {
     'name' : 'IT Service Management',
-    'version' : '1.0',
+    'version' : '2.0',
     'author' : 'JakC',
     'category' : 'Generic Modules/ITMS Management',
-    'depends' : ['base_setup','base','hr'],
+    'depends' : ['base','hr'],
     'init_xml' : [],
     'data' : [			
         'security/jakc_itms_security.xml',
